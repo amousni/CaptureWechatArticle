@@ -1,2 +1,8 @@
 # CaptureWechatArticle
 Capture Wechat Article with Selenium
+
+Selenium真的是太棒辣！
+本项目用作北京大学南燕就业发布的实习、校招文章图片截图
+
+不过仍然存在一些问题待解决：由于网络问题，以图片为主的公众号文章不能某张图片不能完全加载，利用visibility判断图片是否加载完成好像也没有解决此问题。
+其他的解决办法大部分都是多等一会，有时间的时候可以再熟悉一下selenium以及EC.visibility_of_element_located的用法
